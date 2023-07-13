@@ -7,5 +7,6 @@ public class SingleResponsibility {
 
         user1.login("Prottoy", "Password");
         email1.sendEmail("Sani ", "SADP ", "Null ");
+        
     }
 }
